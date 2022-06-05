@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listacompras SYSTEM "listacompras.dtd">
+<?xml-stylesheet type="text/xsl" href="listacompras.xsl" ?>
+<listacompras>
+
+    <venta>
+        <ventacredito>
+            <fechafinpago>2022-06-06</fechafinpago>
+            <cantidad>50</cantidad>
+        </ventacredito>
+    </venta>
+
+    <venta>
+        <ventacredito>
+            <cantidad>70</cantidad>
+        </ventacredito>
+    </venta>
+
+    <venta>
+        <ventainmediata>
+            <divisa>USD</divisa>
+            <cantidad>80</cantidad>
+        </ventainmediata>
+    </venta>
+    
+    
+</listacompras>
